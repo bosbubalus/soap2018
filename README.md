@@ -7,7 +7,7 @@ Workshop Gituhub on Soap Conference 2017
 ##links
 [example link](https://google.com/)
 
-##Navigation
+##Navigation </br>
 [First File](First_File.md) </br>
 [Second File](Second_File.md) </br>
 [Third File](Third_File.md) </br>
