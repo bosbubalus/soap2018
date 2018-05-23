@@ -4,10 +4,10 @@ Workshop Gituhub on Soap Conference 2017
 ## smileys
 :sweat: :smiling_imp: :blowfish:
 
-##External link </br>
+## External link </br>
 [example link](https://google.com/)
 
-##Navigation </br>
+## Navigation </br>
 [First File](First_File.md) </br>
 [Second File](Second_File.md) </br>
 [Third File](Third_File.md) </br>
