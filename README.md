@@ -8,9 +8,9 @@ Workshop Gituhub on Soap Conference 2017
 [example link](https://google.com/)
 
 ##Navigation
-[First File](/First File) /br
-[Second File](/Second File) /br
-[Third File](/Third File) /br
+[First File](First_File.md) /br
+[Second File](Second_File.md) /br
+[Third File](Third_File.md) /br
 
 <h1>A First Level Header</h1>
 
