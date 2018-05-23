@@ -2,7 +2,7 @@
 Workshop Gituhub on Soap Conference 2017
 
 ## smileys
-:sweat:
+:sweat: :smiling_imp: :blowfish:
 
 how to edit readme, how to add links:
 
