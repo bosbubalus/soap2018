@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/bosbubalus/soap2018/tree/master.svg?style=svg)](https://circleci.com/gh/profile-org-name/repo-name/tree/master)
+
 # soap2018
 Workshop Gituhub on Soap Conference 2017
 
