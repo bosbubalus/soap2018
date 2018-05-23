@@ -4,7 +4,8 @@ Workshop Gituhub on Soap Conference 2017
 ## smileys
 :sweat: :smiling_imp: :blowfish:
 
-how to edit readme, how to add links:
+##links
+[example link](https://google.com/)
 
 <h1>A First Level Header</h1>
 
